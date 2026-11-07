@@ -6,6 +6,11 @@ This project focuses on sales and customer data analysis using SQL and Google Bi
 
 The objective is to transform raw e-commerce data into structured datasets and develop analyses that support business performance monitoring and customer understanding.
 
+<img width="1085" height="803" alt="aba1" src="https://github.com/user-attachments/assets/6617ff61-edec-4b5e-ae99-2898084eff3d" />
+
+<img width="1085" height="808" alt="Aba 2" src="https://github.com/user-attachments/assets/ad896f58-0bb2-4340-ab65-184bcee3741c" />
+
+
 ## Tools & Technologies
 
 - **SQL (GoogleSQL):** Data transformation, aggregation, and analytical queries.
