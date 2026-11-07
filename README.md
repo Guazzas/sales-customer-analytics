@@ -62,7 +62,8 @@ sales-customer-analytics/
 
 ## Dashboard
 
-[Insert Looker Studio dashboard link here]
+[View Interactive Dashboard]
+https://datastudio.google.com/reporting/9a26b927-df93-46a9-ae08-4e63d699b60f
 
 ## Project Status
 
